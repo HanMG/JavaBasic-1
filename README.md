@@ -24,6 +24,8 @@ Inflearn - JavaProgramming Basic Course (renew ver.) 11강 객체지향프로그
 
 [20강 - 내부 클래스와 익명 클래스](#20강---내부-클래스와-익명-클래스)
 
+[21강 - 인터페이스 ~ ](https://github.com/HanMG/JavaBasic-2)
+
 
 11강 - 객체 지향 프로그래밍이란?
 -----------------
